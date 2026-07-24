@@ -1,8 +1,8 @@
 package com.FlexPay.FlexPay.dto.response;
 
 
-import com.FlexPay.FlexPay.Enum.Status;
-import com.FlexPay.FlexPay.Enum.TransactionType;
+import com.FlexPay.FlexPay.enums.Status;
+import com.FlexPay.FlexPay.enums.TransactionType;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;

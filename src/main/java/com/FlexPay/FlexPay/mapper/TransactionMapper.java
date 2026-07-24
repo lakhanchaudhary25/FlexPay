@@ -1,7 +1,7 @@
 package com.FlexPay.FlexPay.mapper;
 
-import com.FlexPay.FlexPay.Enum.Status;
-import com.FlexPay.FlexPay.Enum.TransactionType;
+import com.FlexPay.FlexPay.enums.Status;
+import com.FlexPay.FlexPay.enums.TransactionType;
 import com.FlexPay.FlexPay.dto.request.TransferRequest;
 import com.FlexPay.FlexPay.dto.response.*;
 import com.FlexPay.FlexPay.entities.Transaction;

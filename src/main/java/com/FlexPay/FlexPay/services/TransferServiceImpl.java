@@ -15,8 +15,8 @@ import org.springframework.stereotype.Service;
 import java.math.BigDecimal;
 import java.util.List;
 
-import static com.FlexPay.FlexPay.Enum.Status.SUCCESS;
-import static com.FlexPay.FlexPay.Enum.TransactionType.TRANSFER;
+import static com.FlexPay.FlexPay.enums.Status.SUCCESS;
+import static com.FlexPay.FlexPay.enums.TransactionType.TRANSFER;
 
 
 @Service

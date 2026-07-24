@@ -1,4 +1,4 @@
-package com.FlexPay.FlexPay.Enum;
+package com.FlexPay.FlexPay.enums;
 
 public enum TransactionType {
     DEPOSIT,

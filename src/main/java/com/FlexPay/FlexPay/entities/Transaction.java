@@ -1,8 +1,8 @@
 package com.FlexPay.FlexPay.entities;
 
 
-import com.FlexPay.FlexPay.Enum.Status;
-import com.FlexPay.FlexPay.Enum.TransactionType;
+import com.FlexPay.FlexPay.enums.Status;
+import com.FlexPay.FlexPay.enums.TransactionType;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
